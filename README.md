@@ -29,7 +29,6 @@ Each model was evaluated using:
 
 ## **Findings & Recommendations**
 - **Random Forest performed strongly**, achieving high accuracy and AUC-ROC scores.
-- **Stacking Classifier showed the best overall performance**, combining multiple models for improved predictions.
 - **Decision Tree and AdaBoost provided competitive results**, with trade-offs in accuracy and computational efficiency.
 - **KNN underperformed compared to other models**, indicating it may not be the best fit for this dataset.
 
