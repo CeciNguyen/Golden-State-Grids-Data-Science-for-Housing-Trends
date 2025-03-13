@@ -19,7 +19,6 @@ The following classification models were trained and optimized:
 - **Decision Tree Classifier**
 - **Random Forest Classifier**
 - **AdaBoost Classifier**
-- **Stacking Classifier** (Ensemble Learning)
 
 ## **Performance Metrics**
 Each model was evaluated using:
